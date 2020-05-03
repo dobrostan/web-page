@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Jak być dobrym dla siebie"
+title: "O współczuciu dla siebie"
 date: 2017-04-09 17:45:00
 ---
+<img src="{{ site.baseurl }}/images/Compassion_blog.jpg" class="fit image">
 
 Wyobraź sobie, że stoisz przed grupą osób, dla których masz wygłosić swoją prezentację. Przygotowywałeś się rzetelnie cały wczorajszy dzień, masz gotowe wszystkie materiały. Kiedy otwierasz prezentację, orientujesz się, że zapisałeś starą wersję dokumentu i nie ma w nim tego, o czym zamierzasz opowiedzieć. Albo wyobraź sobie, że zapraszasz przyjaciół na uroczystą kolację. Witasz znajomych i nagle czujesz swąd spalenizny z kuchni. Twoje popisowe danie zamieniło się w zwęgloną breję. Jakie myśli pojawiają się w twojej głowie? Co myślisz o sobie?
 
