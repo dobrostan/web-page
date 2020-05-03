@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <!-- Znaczniki mikrodanych dodane przez Asystenta do oznaczania danych Google. -->
-<html>
+<html lang="pl">
 
   {% include /head.html %}
 
 	<body id="top">
-	<span itemscope itemtype="https://schema.org/LocalBusiness">
         {% include /header.html %}
 
         <!-- Banner -->
         <section id="banner">
             <div class="inner">
+              <h2>DobroStan</h2>
+              <p>Magdalena Długołęcka</p>
+              <ul class="actions">
+                <li><a href="{{ site.baseurl }}/mindfulness.html" class="button big alt">Mindfulness</a></li>
+                <li><a href="{{ site.baseurl }}/psychoterapia.html" class="button big alt">Psychoterapia</a></li>
+              </ul>
             </div>
         </section>
         {{ content }}
         {% include /footer.html %}
-	</span>
     </body>
 
 </html>
