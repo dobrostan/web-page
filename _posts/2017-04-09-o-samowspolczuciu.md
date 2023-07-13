@@ -54,4 +54,4 @@ Gilbert, P. (2013). The compassionate mind. London: Robinson.
 Neff, K. D. (2011). Self-compassion: Stop beating yourself up and leave insecurity behind. Yellow Kite.
 
 
-Artykuł ukazał się w serwisie [Zdrowa Głowa](http://zdrowaglowa.pl/o-samowspolczuciu-slow-kilka/)
+Artykuł ukazał się w serwisie [Zdrowa Głowa](http://zdrowaglowa.org/o-samowspolczuciu-slow-kilka/)
