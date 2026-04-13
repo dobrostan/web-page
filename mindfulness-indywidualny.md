@@ -1,7 +1,7 @@
 <section id="main" class="wrapper style1">
   <div class="inner">
-    
-    <h1>Mindfulness indywidualnie</h1>
+    <div class="content">
+<h1>Mindfulness indywidualnie</h1>
 
 <p><strong>Mindfulness dopasowany do Ciebie</strong></p>
 
@@ -168,3 +168,6 @@ Koszt: 400 zł / 2 h
 Napisz i umów bezpłatną konsultację
 </a>
 </p>
+    </div>
+  </div>
+</section>
