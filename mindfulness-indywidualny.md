@@ -1,4 +1,7 @@
-<h1>Mindfulness indywidualnie</h1>
+<section id="main" class="wrapper style1">
+  <div class="inner">
+    
+    <h1>Mindfulness indywidualnie</h1>
 
 <p><strong>Mindfulness dopasowany do Ciebie</strong></p>
 
