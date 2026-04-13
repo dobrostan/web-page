@@ -1,25 +1,12 @@
----
-layout: default
-title: Mindfulness indywidualnie – kurs uważności 1:1
-description: Indywidualny kurs mindfulness (1:1 lub 1–2 osoby). Redukcja stresu, regulacja emocji i poprawa koncentracji. Praca dopasowana do Twojego tempa.
----
+<h1>Mindfulness indywidualnie</h1>
 
-<section id="main" class="wrapper style1">
-  <div class="inner">
-
-<h1>Mindfulness indywidualnie – kurs uważności 1:1</h1>
-
-<h2>Mindfulness dopasowany do Ciebie</h2>
+<p><strong>Mindfulness dopasowany do Ciebie</strong></p>
 
 <p>
 Indywidualny kurs uważności, który pomaga odzyskać spokój, koncentrację i kontakt ze sobą — w sposób bezpieczny i dostosowany do Twojej wrażliwości.
 </p>
 
-<p>
-Możliwa praca stacjonarna i online.
-</p>
-
-<h3>Dla kogo</h3>
+<h2>Dla kogo</h2>
 
 <p>
 Dla osób przeciążonych, wypalonych, z natłokiem myśli<br>
@@ -27,7 +14,7 @@ Dla osób z ADHD lub dużą wrażliwością<br>
 Dla tych, którzy chcą poczuć więcej spokoju w codziennym życiu
 </p>
 
-<h3>Dzięki praktyce mindfulness</h3>
+<h2>Dzięki praktyce mindfulness</h2>
 
 <ul>
 <li>zmniejszysz napięcie i stres</li>
@@ -37,7 +24,7 @@ Dla tych, którzy chcą poczuć więcej spokoju w codziennym życiu
 <li>rozwiniesz życzliwość wobec siebie</li>
 </ul>
 
-<h3>Podczas kursu uczysz się m.in.</h3>
+<h2>Podczas kursu uczysz się m.in.</h2>
 
 <ul>
 <li>pracy z oddechem i ciałem</li>
@@ -46,7 +33,7 @@ Dla tych, którzy chcą poczuć więcej spokoju w codziennym życiu
 <li>budowania życzliwej relacji ze sobą</li>
 </ul>
 
-<h3>W pracy indywidualnej</h3>
+<h2>W pracy indywidualnej</h2>
 
 <ul>
 <li>tempo dopasowane jest do Ciebie</li>
@@ -58,13 +45,16 @@ Dla tych, którzy chcą poczuć więcej spokoju w codziennym życiu
 <p>Możemy pracować w jednym z obszarów — albo je łączyć:</p>
 
 <h3>Mindfulness na stres</h3>
+
 <p>
 Dla osób przeciążonych, wypalonych, z natłokiem myśli i napięciem
 </p>
+
 <p>
 Pracujemy w oparciu o podejście Breathworks (Mindfulness for Stress).
 </p>
 
+<p><strong>Uczysz się:</strong></p>
 <ul>
 <li>rozpoznawać moment, w którym pojawia się autopilot</li>
 <li>zatrzymywać reakcje i odzyskiwać wybór</li>
@@ -74,17 +64,22 @@ Pracujemy w oparciu o podejście Breathworks (Mindfulness for Stress).
 
 <p>
 👉 Więcej o podejściu:<br>
+<a href="https://www.breathworks-mindfulness.org.uk/mindfulness-for-stress-management">
 https://www.breathworks-mindfulness.org.uk/mindfulness-for-stress-management
+</a>
 </p>
 
 <h3>Mindfulness dla zdrowia</h3>
+
 <p>
 Dla osób żyjących z bólem, zmęczeniem i przewlekłą chorobą
 </p>
+
 <p>
 Pracujemy w oparciu o podejście Breathworks (Mindfulness for Health / MBPM).
 </p>
 
+<p><strong>Uczysz się:</strong></p>
 <ul>
 <li>pracować z bólem i dyskomfortem (zamiast z nim walczyć)</li>
 <li>zmniejszać napięcie i cierpienie wynikające z niezgody na swój stan</li>
@@ -94,17 +89,22 @@ Pracujemy w oparciu o podejście Breathworks (Mindfulness for Health / MBPM).
 
 <p>
 👉 Więcej o podejściu:<br>
+<a href="https://www.breathworks-mindfulness.org.uk/mindfulness-for-health-course-overview">
 https://www.breathworks-mindfulness.org.uk/mindfulness-for-health-course-overview
+</a>
 </p>
 
 <h3>Mindfulness w ADHD</h3>
+
 <p>
 Dla osób z trudnością w koncentracji, impulsywnością i przeciążeniem
 </p>
+
 <p>
-Pracujemy w oparciu o podejście mindfulness dostosowane do ADHD (MAPs).
+Pracujemy w oparciu o podejście mindfulness dostosowane do ADHD (MAPs – Mindful Awareness Practices).
 </p>
 
+<p><strong>Uczysz się:</strong></p>
 <ul>
 <li>wracać do uwagi bez walki ze sobą</li>
 <li>pracować z rozproszeniem i nadmiarem bodźców</li>
@@ -114,29 +114,30 @@ Pracujemy w oparciu o podejście mindfulness dostosowane do ADHD (MAPs).
 
 <p>
 👉 Więcej o podejściu:<br>
-https://lidiazylowska.com
+<a href="https://lidiazylowska.com">https://lidiazylowska.com</a>
 </p>
 
 <h3>MBCT</h3>
+
 <p>
-Dla osób, które doświadczają nawracającej depresji lub tendencji do zapętlania się w myślach
+Dla osób, które doświadczają nawracającej depresji lub tendencji do nadmiernego analizowania i zapętlania się w myślach
 </p>
+
 <p>
 Pracujemy w oparciu o podejście Mindfulness-Based Cognitive Therapy (MBCT).
 </p>
 
+<p><strong>Uczysz się:</strong></p>
 <ul>
-<li>rozpoznawać wzorce myślenia</li>
-<li>zmieniać relację do myśli</li>
+<li>rozpoznawać wzorce myślenia i momenty, w których zaczynasz się zapętlać w myślach</li>
+<li>zmieniać relację do myśli — zamiast z nimi walczyć lub im wierzyć</li>
 <li>wcześniej zauważać sygnały pogorszenia samopoczucia</li>
 <li>wracać do kontaktu z ciałem i teraźniejszością</li>
 </ul>
 
 <h2>Jak wygląda współpraca</h2>
 
-<p>
-Czas trwania: 8–10 tygodni
-</p>
+<p>Czas trwania: 8–10 tygodni</p>
 
 <p>
 Spotkania indywidualne (1:1)<br>
@@ -148,23 +149,19 @@ Spotkania w duecie — dla par, bliskich znajomych, rodzica i dorosłego dziecka
 Koszt: 400 zł / 2 h
 </p>
 
-<p>W trakcie spotkań:</p>
+<p><strong>W trakcie spotkań:</strong></p>
 <ul>
 <li>praktykujemy razem</li>
 <li>otrzymujesz nagrania i ćwiczenia</li>
 <li>uczysz się, jak przenosić to do codziennego życia</li>
 </ul>
 
-<p>
-Jeśli czujesz, że to może być dla Ciebie —<br>
-👉 Napisz, żeby umówić bezpłatną konsultację i sprawdzić dostępne terminy
-</p>
+<br><br>
 
-<hr>
+<p><strong>Jeśli czujesz, że to może być dla Ciebie —</strong></p>
 
 <p>
-Zobacz też: <a href="mindfulness-dla-instytucji">mindfulness dla instytucji</a>
+<a href="mailto:magdalena.dlugolecka@dobrostan.org.pl" class="button primary">
+Napisz i umów bezpłatną konsultację
+</a>
 </p>
-
-  </div>
-</section>
